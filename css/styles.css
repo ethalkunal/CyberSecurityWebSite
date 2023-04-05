@@ -12,6 +12,10 @@ body{
     font-size: 17px;
 }
 
+a{
+    color:#bf6363;
+}
+
 .black {
     background-color:#282A35!important;
     color: white!important;
